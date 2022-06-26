@@ -2,15 +2,17 @@
 I'm a computer science student at the Silesian University of Technology, passionate about game development with game publishing experience.
 I love learning new programming languages and skills for self-development.
 
-As a solo game-dev I'm known as GraczekGames
-![](images/GraczekGames_banner.png)
-I have loads of projects done using Unity game enginge and C#. Two of them are published.
-My first published game is first person parkour game with olnine leaderboard - AirRunner:
-![](images/AirRunner.png)
+As a solo game-dev I'm known as GraczekGames <br />
+<img src ="images/GraczekGames_banner.png" width="600"><br />
+I have loads of projects done using Unity game engine and C#. Two of them are published.<br /><br />
+
+My first published game is a first person parkour game with online leaderboard - AirRunner:<br />
+<img src ="images/AirRunner.png" width="600">
 [Link to AirRunner](https://graczek.itch.io/airrunner)
-My second game is mobile, hypercasual game JellyBounce:
-![](images/JellyBounce.png)
-[Link to JellyBounce](https://play.google.com/store/apps/details?id=com.Graczek.JellyBounce)
+
+My second game is a mobile, hypercasual game JellyBounce:<br />
+<img src ="images/JellyBounce.png" width="300">
+[Link to JellyBounce](https://play.google.com/store/apps/details?id=com.Graczek.JellyBounce)<br />
 
 
 <!--
