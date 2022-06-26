@@ -2,6 +2,8 @@
 I'm a computer science student at the Silesian University of Technology, passionate about game development with game publishing experience.
 I love learning new programming languages and skills for self-development.
 
+Skills: C++/C#/Unity/SFML
+
 As a solo game-dev I'm known as GraczekGames <br />
 <img src ="images/GraczekGames_banner.png" width="600"><br />
 I have loads of projects done using Unity game engine and C#. Two of them are published.<br /><br />
