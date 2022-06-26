@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a computer science student at the Silesian University of Technology, passionate about game development with game publishing experience.
+I love learning new programming languages and skills for self-development.
 
 <!--
 **Fijalkowskim/Fijalkowskim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
