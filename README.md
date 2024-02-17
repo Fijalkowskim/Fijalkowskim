@@ -11,7 +11,7 @@
 
 - 💻 My main focus right now: **React, TypeScript, TailwindCSS, Framer-motion**
 
-- 📖 I’m learning: **NodeJS, Express, MongoDB**
+- 📖 I’m learning: **NodeJS, Express, MongoDB, Spring Boot**
 
 - ⚙️ Currently working on: [MeetAllMortys](https://github.com/Fijalkowskim/MeetAllMortys) - React website about Rick And Morty characters using API's, Framer-motion and TailwindCSS
 
