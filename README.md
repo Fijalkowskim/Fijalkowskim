@@ -13,7 +13,7 @@
 
 - 📖 I’m learning: **NodeJS, Express, MongoDB, Spring Boot**
 
-- ⚙️ Currently working on: [MeetAllMortys](https://github.com/Fijalkowskim/MeetAllMortys) - React website about Rick And Morty characters using API's, Framer-motion and TailwindCSS
+- ⚙️ Currently working on: [Powerforge Fitness](https://github.com/Fijalkowskim/Powerforge-Fitness) - React web application to help you reach yout fitness goals.
 
 <h3 align="left">Check games I publshed:</h3>
  <a href="https://graczek.itch.io/airrunner" target="_blank" rel="noreferrer"> <img src="https://github.com/Fijalkowskim/Fijalkowskim/assets/91847461/b08e3abe-d2f4-45dd-969a-0ed06678e52b" alt="AirRunner" height=80/> </a> 
