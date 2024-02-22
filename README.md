@@ -1,8 +1,10 @@
-<h1 align="center">Hi there!<br>I'm Mateusz Fijałkowski</h1>
+<h1 align="center">
+<a href="https://fijalkowskim.github.io/Portfolio/">Link to portfolio</a>
+ </h1>
 <div align="center">
 <img  src="https://github.com/Fijalkowskim/Fijalkowskim/assets/91847461/8530bf10-a57e-4843-bb63-f4a38630e4d9" alt="Full-stack"/>
 
-<h2 align="center">And I develop websites</h2>
+<h2 align="center">Hi! I'm Mateusz and I develop websites</h2>
 
 <h3>I am 22 years old computer science student from Poland, passionate about coding websites, games and applications.</h3>
 
