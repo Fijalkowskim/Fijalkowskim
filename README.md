@@ -17,7 +17,7 @@
 
 - ⚙️ Currently working on: [Finance Manager](https://github.com/Fijalkowskim/FinanceManager) -  Spring Boot web application designed to help users manage their finances efficiently.
 
-<h3 align="left">Contact me:</h3>
+<h3 align="center">Contact me:</h3>
 
 *Email:* <span>fijalkowskim01@gmail.com</span> 
 
