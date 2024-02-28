@@ -8,25 +8,23 @@
 
 <h3>I am 22 years old computer science student from Poland, passionate about coding websites, games and applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fijalkowskim&label=Profile%20views&color=0e75b6&style=flat" alt="fijalkowskim" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fijalkowskim&label=Profile%20views&color=0e75b6&style=flat" alt="fijalkowskim" /> </p>
 
 
-- 💻 My main focus right now: **React, TypeScript, TailwindCSS, Framer-motion**
+- 💻 My main focus right now: **Spring, Spring Boot, Hibernate, React**
 
-- 📖 I’m learning: **NodeJS, Express, MongoDB, Spring Boot**
+- 📖 I’m learning: **JUnit, Mockito**
 
-- ⚙️ Currently working on: [Powerforge Fitness](https://github.com/Fijalkowskim/Powerforge-Fitness) - React web application to help you reach yout fitness goals.
-
-<h3 align="left">Check games I publshed:</h3>
- <a href="https://graczek.itch.io/airrunner" target="_blank" rel="noreferrer"> <img src="https://github.com/Fijalkowskim/Fijalkowskim/assets/91847461/b08e3abe-d2f4-45dd-969a-0ed06678e52b" alt="AirRunner" height=80/> </a> 
- <a href="https://play.google.com/store/apps/details?id=com.Graczek.JellyBounce&hl=pl&gl=US" target="_blank" rel="noreferrer"> <img src="https://github.com/Fijalkowskim/Fijalkowskim/assets/91847461/65af2599-af09-4419-bdda-bf19da83c235" alt="JellyBounce" height=80/> </a> 
+- ⚙️ Currently working on: [Finance Manager](https://github.com/Fijalkowskim/FinanceManager) -  Spring Boot web application designed to help users manage their finances efficiently.
 
 <h3 align="left">Contact me:</h3>
 
-*Email:* <span>Fijalkowskim01@gmail.com</span> 
+*Email:* <span>fijalkowskim01@gmail.com</span> 
+
+*LinkedIn:* <span><a href="https://www.linkedin.com/in/mateusz-fija%C5%82kowski-a880742b5/">linkedin.com/in/mateusz-fijałkowski</a></span> 
 
 ---
-
+<!-- 
 <h3 align="center">Things I know well:</h3>
 <p align="center">   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
@@ -56,8 +54,7 @@
 </p>
 
 ---
-
-<h3 align="center">Some stats</h3>
+-->
 <p align="center">
 <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fijalkowskim&show_icons=true&locale=en&layout=compact" alt="fijalkowskim" /></span>
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fijalkowskim&" alt="fijalkowskim" /></span>
